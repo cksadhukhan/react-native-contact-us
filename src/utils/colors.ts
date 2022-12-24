@@ -1,0 +1,15 @@
+export const Colors = {
+  backgroundLight: '#f5f6fa',
+  backgroundDark: '#2d3436',
+  button: '#535c68',
+  white: '#f5f6fa',
+  headingLight: '#222f3e',
+  headingDark: '#f5f6fa',
+  textDark: '#f5f6fa',
+  textLight: '#000',
+  borderLight: '#222f3e',
+  borderDark: '#f5f6fa',
+  danger: '#ee5253',
+  placeholderLight: '#636e72',
+  placeholderDark: '#f5f6fa',
+}
